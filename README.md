@@ -1,6 +1,5 @@
 ### Hi 👋
 ### rajiv this side
-### thank you for showing interest to know about me..
 
 <!--
 **rajivprajapati/rajivprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
